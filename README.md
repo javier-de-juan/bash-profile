@@ -16,8 +16,6 @@ Maybe you need to hack some alias to make it works correctly in bash or other sh
 * **.4**:       Go back 4 directory levels
 * **.5**:       Go back 5 directory levels
 * **.6**:       Go back 6 directory levels
-* **~:**:       Go Home
-* **lr**:   Full Recursive Directory Listing
 
 ### 2. GIT
 

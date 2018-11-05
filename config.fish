@@ -10,8 +10,6 @@ alias .3 'cd ../../../'                     # .3:       Go back 3 directory leve
 alias .4 'cd ../../../../'                  # .4:       Go back 4 directory levels
 alias .5 'cd ../../../../../'               # .5:       Go back 5 directory levels
 alias .6 'cd ../../../../../../'            # .6:       Go back 6 directory levels
-alias ~  'cd ~'                             # ~:        Go Home
-alias lr 'ls -R | grep ":$" | sed -e '\''s/:$//'\'' -e '\''s/[^-][^\/]*\//--/g'\'' -e '\''s/^/   /'\'' -e '\''s/-/|/'\'' | less'    # lr:   Full Recursive Directory Listing
 
 #   ---------------------------
 #   2. GIT
